@@ -5,8 +5,6 @@ Jan; 17, 2022 // 24h
 
 JavaScript hackaton coding game hosted by UCLA Extention coding bootcamp full-stack:
 
-Orginally this was for a 'github issue report', but I've put it hear and i changed it with my own twist.
-
 
 ![image](https://user-images.githubusercontent.com/67552318/149863492-656dc31e-a619-426f-99b0-7902616fa0a5.png)
 
